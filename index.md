@@ -12,13 +12,19 @@
 </div>
 
 
+## Summer school for incoming graduates
 
+I have multiple openings for graduate students and PhD students. Please submit the form <a href="https://mp.weixin.qq.com/s/l8-emfhmlWY9j3yiFc8wBA">here</a>. 
+
+Students with computer science background or cryptography or security background are encouraged to apply! 
 
 ## Short Bio
 
 Haibin Zhang is interested in the intersection of distributed systems, applied cryptography, and security. 
 
 Haibin Zhang is a Professor in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. Haibin is a Teli Youth Fellow. 
+
+Haibin Zhang is a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. 
 
 Previously, he worked as a Chief Research Scientist at Shandong Institute of Blockchain (China), an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). Haibin received his Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
 
