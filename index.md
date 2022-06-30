@@ -24,7 +24,7 @@ Haibin Zhang is interested in the intersection of distributed systems, applied c
 
 Haibin Zhang is a Professor in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. Haibin is a Teli Youth Fellow. 
 
-Haibin Zhang is a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. 
+Haibin Zhang is also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. 
 
 Previously, he worked as a Chief Research Scientist at Shandong Institute of Blockchain (China), an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). Haibin received his Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
 
@@ -151,7 +151,7 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
 
 - <a href="https://github.com/monero-project/urs">Unique ring signatures and Monero</a>.
 
-- A clean definition of tweakable cipher was introduced in our RSA 2011 paper and widely used in subsequent tweakable cipher and encryption schemes (including
+- A clean definition of online cipher was introduced in our RSA 2011 paper and widely used in subsequent online encryption and online authenticated encryption schemes (including
 the CAESAR competition candidates). 
 
 - The most efficient ABA so far: CCS 2022 (Pillar)
