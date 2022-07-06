@@ -33,7 +33,7 @@ stealing. Haibin is one of the main inventors of Norton Zone, Symantec’s scala
 
 ## Recent conferences in which I am invovled as PCs (please submit your beautiful work!): 
 
-<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> (please submit your papers to conference!)
+<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> (Please submit your papers to the prestigious conference focusing on distributed computing! Both theory and implementation aspects in all areas in distributed computing are welcome!)
 
 <a href="https://www.ndss-symposium.org/ndss2023-call-for-papers/">NDSS 2023</a> 
 
