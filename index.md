@@ -157,7 +157,7 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
 - A clean definition of online cipher was introduced in our RSA 2011 paper and widely used in subsequent online encryption and online authenticated encryption schemes (including
 the CAESAR competition candidates). 
 
-- The most efficient ABA so far: CCS 2022 (Pillar)
+- One of the state of the art ABA so far: CCS 2022 (Pillar). Pillar has on average 12 steps to terminate and assumes common coins and authenticated channels only. 
 
 - The most communication-efficient RBC so far: PODC 2022. 
 
