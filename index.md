@@ -31,9 +31,9 @@ Previously, he worked as a Chief Research Scientist at Shandong Institute of Blo
 He received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext 
 stealing. Haibin is one of the main inventors of Norton Zone, Symantec’s scalable cloud storage, and BChain, a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in more 20 media reports, including the Hyperledger whitepaper. Haibin has received Maryland Innovation Award and research funding from NSF, DoE, DHS, Norway research council, etc.  
 
-## Recent conferences in which I am invovled as PCs (please submit your beautiful work!): 
+## Recent conferences in which I am invovled (please consider submitting your work!): 
 
-<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> (Please submit your papers to the prestigious conference focusing on distributed computing! Both theory and implementation aspects in all areas in distributed computing are welcome!)
+<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> (Please submit your papers to the prestigious conference focusing on distributed computing! Both theory and implementation aspects in all areas of distributed computing are welcome.)
 
 <a href="https://www.ndss-symposium.org/ndss2023-call-for-papers/">NDSS 2023</a> 
 
