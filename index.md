@@ -14,9 +14,9 @@
 
 ## Summer school for incoming graduates
 
-I have multiple openings for graduate students and PhD students. Please submit the form <a href="https://mp.weixin.qq.com/s/l8-emfhmlWY9j3yiFc8wBA">here</a>. 
+I have multiple openings for graduate students and PhD students. 
 
-Students with computer science background or cryptography or security background are encouraged to apply! 
+Students with computer science, cryptography, or security background are encouraged to apply! Go ahead to send me an email!
 
 ## Short Bio
 
