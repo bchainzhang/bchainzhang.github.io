@@ -88,7 +88,7 @@ We also welcome researchers and assistant professors to join our group and work 
 
 - Nicolas Alhaddad, Sisi Duan, Mayank Varia, Haibin Zhang. Practical and Improved Byzantine Reliable Broadcast and Asynchronous Verifiable Information Dispersal from Hash Functions. [<a href="https://eprint.iacr.org/2022/171">eprint</a>]
 
-- Sisi Duan, Haibin Zhang, Boxin Zhao. WaterBear: Information-Theoretic Asynchronous BFT Made Practical. [<a href="https://eprint.iacr.org/2022/021">eprint</a>]
+- Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. WaterBear: Asynchronous BFT with Information-Theoretic Security and Quantum Security. [<a href="https://eprint.iacr.org/2022/021">eprint</a>]
 
 
 
@@ -159,7 +159,7 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
 - A clean definition of online cipher was introduced in our RSA 2011 paper and widely used in subsequent online encryption and online authenticated encryption schemes (including
 the CAESAR competition candidates). 
 
-- One of the state of the art ABA so far: CCS 2022 (Pillar). Pillar has on average 12 steps to terminate and assumes common coins and authenticated channels only. 
+- One of the state of the art ABA protocols so far: CCS 2022 (Pillar). Pillar has on average 12 steps to terminate and assumes common coins and authenticated channels only. 
 
 - The most communication-efficient RBC so far: PODC 2022. 
 
