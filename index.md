@@ -12,7 +12,7 @@
 </div>
 
 
-## Summer school for incoming graduates
+## For incoming graduates
 
 I have multiple openings for graduate students and PhD students. 
 
