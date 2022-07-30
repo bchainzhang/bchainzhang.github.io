@@ -20,16 +20,16 @@ Students with computer science, cryptography, or security background are encoura
 
 ## Short Bio
 
-Haibin Zhang is interested in the intersection of distributed systems, applied cryptography, and security. 
 
-Haibin Zhang is a Professor in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. Haibin is a Teli Youth Fellow. 
 
-Haibin Zhang is also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. 
+I am a Professor in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. I am also a Teli Youth Fellow. 
 
-Previously, he worked as a Chief Research Scientist at Shandong Institute of Blockchain (China), an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). Haibin received his Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
+I am interested in the intersection of distributed systems, applied cryptography, and security. 
 
-He received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext 
-stealing. Haibin is one of the main inventors of Norton Zone, Symantec’s scalable cloud storage, and BChain, a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in more 20 media reports, including the Hyperledger whitepaper. Haibin has received Maryland Innovation Award and research funding from NSF, DoE, DHS, Norway research council, etc.  
+Previously, I worked as a Chief Research Scientist at Shandong Institute of Blockchain (China), an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received his Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
+
+I received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext 
+stealing. I am one of the main inventors of Norton Zone, Symantec’s scalable cloud storage, and BChain, a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in more 20 media reports, including the Hyperledger whitepaper. I have received Maryland Innovation Award and research funding from NSF, DoE, DHS, Norway research council, etc.  
 
 ## Recent conferences in which I am invovled (please consider submitting your work!): 
 
