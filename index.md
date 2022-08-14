@@ -33,6 +33,8 @@ stealing. I am one of the main inventors of Norton Zone, Symantec’s scalable c
 
 ## Recent conferences in which I am invovled (please consider submitting your work!): 
 
+<a href="https://fc23.ifca.ai/">Financial Cryptography and Data Security (FC) 2023</a> 
+
 <a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> (Please submit your papers to the prestigious conference focusing on distributed computing! Both theory and implementation aspects in all areas of distributed computing are welcome.)
 
 <a href="https://www.ndss-symposium.org/ndss2023-call-for-papers/">NDSS 2023</a> 
