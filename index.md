@@ -86,9 +86,7 @@ We also welcome researchers and assistant professors to join our group and work 
 
 ## Preprints
 
-- Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="files/bg.pdf">PDF</a>]
-
-This is our new paper trying to provide a "unified" theory of BFT replication. 
+- Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="files/bg.pdf">PDF</a>] This is our new paper trying to provide a "unified" theory for BFT replication. 
 
 
 - Sisi Duan, Haibin Zhang, Xiao Sui, Baohan Huang, Changchun Mu, Gang Di, Xiaoyun Wang. Byzantine Fault Tolerance from Weak Certificates. 
