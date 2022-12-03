@@ -86,6 +86,10 @@ We also welcome researchers and assistant professors to join our group and work 
 
 ## Preprints
 
+- Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao, Xuanji Meng, Shengli Liu, Yong Yu, Fangguo Zhang, Liehuang Zhu. 
+Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
+
+
 - Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="files/bg.pdf">PDF</a>] [<a href="https://eprint.iacr.org/2022/1433">eprint</a>] This is our new paper trying to provide a "unified" theory for BFT replication. 
 
 
@@ -96,10 +100,7 @@ We also welcome researchers and assistant professors to join our group and work 
 - Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT. [<a href="https://eprint.iacr.org/2022/021">eprint</a>]
 
 
-
-
 ## Publication
-
 
 - Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang  and Haibin Zhang. 
 Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation. 
