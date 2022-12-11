@@ -89,6 +89,9 @@ We also welcome researchers and assistant professors to join our group and work 
 - Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao, Xuanji Meng, Shengli Liu, Yong Yu, Fangguo Zhang, Liehuang Zhu. 
 Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
 
+You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, Jianwei Liu. 
+Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. 
+[<a href="https://eprint.iacr.org/2022/1709">eprint</a>]
 
 - Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="files/bg.pdf">PDF</a>] [<a href="https://eprint.iacr.org/2022/1433">eprint</a>] This is our new paper trying to provide a "unified" theory for BFT replication. 
 
