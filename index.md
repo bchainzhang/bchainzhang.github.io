@@ -23,7 +23,7 @@ Students with computer science, cryptography, or security background are encoura
 
 
 
-I am a professor in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. I am also a Teli Youth Fellow. 
+I am a professor in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. Moreover, I am a Teli Youth Fellow. 
 
 I am interested in the intersection of distributed systems, applied cryptography, and security. 
 
