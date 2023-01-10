@@ -7,7 +7,8 @@
   <div class="col-md-4">
     Professor<br>
     <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a> <br>
-    Email: haibin at bit dot edu dot cn<br>
+    Email: bchainzhang at aliyun.com<br>
+    Or: ucdhbzhang at gmail.com <br>
   </div>
 </div>
 
