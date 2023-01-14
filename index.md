@@ -32,33 +32,7 @@ Previously, I worked as a Chief Research Scientist at Shandong Institute of Bloc
 I received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext 
 stealing. I am one of the main inventors of Norton Zone, Symantec’s scalable cloud storage, and BChain, a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in more 20 media reports, including the Hyperledger whitepaper. I have received Maryland Innovation Award and research funding from NSF China, the Ministry of Science and Technology China, US NSF, US DoE, US DHS, Norway research council, etc.  
 
-## Recent conferences in which I am invovled (please consider submitting your work!): 
 
-
-<a href="https://www.ieee-security.org/TC/EuroSP2023/">IEEE EuroS&P 2023</a> 
-
-<a href="https://fc23.ifca.ai/">Financial Cryptography and Data Security (FC) 2023</a> 
-
-<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> (Please submit your papers to the prestigious conference focusing on distributed computing! Both theory and implementation aspects in all areas of distributed computing are welcome.)
-
-<a href="https://www.ndss-symposium.org/ndss2023-call-for-papers/">NDSS 2023</a> 
-
-<a href="https://ccsw.io/">ACM CCSW 2022</a> 
-
-<a href="https://cis.temple.edu/~yanwang/ieee-mass-2022/Home.html">IEEE MASS 2023</a> 
-
-<a href="https://icdcs2022.icdcs.org/">ICDCS 2022</a>    
-
-I am happy to serve as PC members and spend time in helping review papers. 
-More importantly, I really want to advertise and promote international conferences in China, 
-and help exchange academic ideas and advance knowledge. (The world is somewhat more disconneted due to COVID. No?:)) 
-
-
-I am certainly biased, but I am particularly interested and committed in promoting less established but high-quality conferences in China. 
-Doing so may help these conferences more vigorous (e.g., by receiving 
-more high-quality submissions), help researchers in China have more balanced research 
-(now somewhat impacted by the CCF short list---some of those conferences not in the list, unfornately, are ones with areas that are under-developed), 
-and help researchers who published papers in these conferences get the recognization that they deserve.  
 
 
 ## Some BFT/permissioned blockchain systems built
@@ -176,7 +150,33 @@ the CAESAR competition candidates).
 - The most communication-efficient AVID so far: PODC 2022 (BA). 
 
 
+## Recent conferences in which I am invovled (please consider submitting your work!): 
 
+
+<a href="https://www.ieee-security.org/TC/EuroSP2023/">IEEE EuroS&P 2023</a> 
+
+<a href="https://fc23.ifca.ai/">Financial Cryptography and Data Security (FC) 2023</a> 
+
+<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> (Please submit your papers to the prestigious conference focusing on distributed computing! Both theory and implementation aspects in all areas of distributed computing are welcome.)
+
+<a href="https://www.ndss-symposium.org/ndss2023-call-for-papers/">NDSS 2023</a> 
+
+<a href="https://ccsw.io/">ACM CCSW 2022</a> 
+
+<a href="https://cis.temple.edu/~yanwang/ieee-mass-2022/Home.html">IEEE MASS 2023</a> 
+
+<a href="https://icdcs2022.icdcs.org/">ICDCS 2022</a>    
+
+I am happy to serve as PC members and spend time in helping review papers. 
+More importantly, I really want to advertise and promote international conferences in China, 
+and help exchange academic ideas and advance knowledge. (The world is somewhat more disconneted due to COVID. No?:)) 
+
+
+I am certainly biased, but I am particularly interested and committed in promoting less established but high-quality conferences in China. 
+Doing so may help these conferences more vigorous (e.g., by receiving 
+more high-quality submissions), help researchers in China have more balanced research 
+(now somewhat impacted by the CCF short list---some of those conferences not in the list, unfornately, are ones with areas that are under-developed), 
+and help researchers who published papers in these conferences get the recognization that they deserve.  
 
 
 
