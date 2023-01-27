@@ -175,7 +175,7 @@ and help exchange academic ideas and advance knowledge. (The world is somewhat m
 I am certainly biased, but I am particularly interested and committed in promoting less established but high-quality conferences in China. 
 Doing so may help these conferences more vigorous (e.g., by receiving 
 more high-quality submissions), help researchers in China have more balanced research 
-(now somewhat impacted by the CCF short list---some of those conferences not in the list, unfornately, are ones with areas that are under-developed), 
+(now somewhat impacted by the CCF short list---some of those conferences not in the list, unfortunately, are ones with areas that are under-developed), 
 and help researchers who published papers in these conferences get the recognization that they deserve.  
 
 
