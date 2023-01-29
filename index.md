@@ -12,6 +12,7 @@
   </div>
 </div>
 
+Please contact me via the above two emails instead my Bit.edu email (for which I sometimes fail to receive emails properly). 
 
 ## For incoming graduates
 
