@@ -51,7 +51,9 @@ EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT 
 
 <a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear</a> are two new asynchronous BFT protocols
 
-Recently, I am interested in building highly efficient partially synchronous BFT protocols (e.g., our DSN 2022 paper---Marlin, our Oakland Paper---Dyno). Stay tuned!
+Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno, and Dashing and Star. 
+
+I am also recently interested in designing and building systemss such as ACSS, AVSS, ADKG, and APSS, systems in synchronous settings, and MPC. 
 
 
 ## Openings!
