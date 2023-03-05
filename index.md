@@ -14,11 +14,7 @@
 
 Please contact me via the above two emails instead my Bit.edu email (for which I sometimes fail to receive emails properly). 
 
-## For incoming graduates
 
-I have multiple openings for graduate students and PhD students. 
-
-Students with computer science, cryptography, or security background are encouraged to apply! Go ahead to send me an email!
 
 ## Short Bio
 
@@ -57,9 +53,15 @@ I am also recently interested in designing and building systemss such as ACSS, A
 
 
 ## Openings!
-I have many openings for PhDs, masters, and postdocs. Please do not hesitate to send me an email if you are interested in working with me. 
+I have many openings for PhDs, masters, and postdocs. 
+
+Students/PhD students with computer science, cryptography, or security background are encouraged to send me an email!
 
 We also welcome researchers and assistant professors to join our group and work together with us. 
+
+
+
+
 
 
 ## Preprints
