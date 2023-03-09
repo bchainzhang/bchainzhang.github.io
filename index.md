@@ -157,6 +157,7 @@ the CAESAR competition candidates).
 
 ## Recent conferences in which I am invovled (please consider submitting your work!): 
 
+PETS 2024 Program Committee / PoPETs 2024 Editorial Board
 
 <a href="https://www.ieee-security.org/TC/EuroSP2023/">IEEE EuroS&P 2023</a> 
 
