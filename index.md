@@ -159,8 +159,6 @@ the CAESAR competition candidates).
 
 PETS 2024 Program Committee / PoPETs 2024 Editorial Board
 
-IEEE MASS 2024 Program Committee 
-
 <a href="https://www.ieee-security.org/TC/EuroSP2023/">IEEE EuroS&P 2023</a> 
 
 <a href="https://fc23.ifca.ai/">Financial Cryptography and Data Security (FC) 2023</a> 
