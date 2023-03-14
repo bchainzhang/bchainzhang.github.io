@@ -32,11 +32,11 @@ stealing.
 
 I am one of the main inventors of many industry and production large-scale distributed systems such as:
 
--Norton Zone: Symantec’s scalable cloud storage;
+- Norton Zone: Symantec’s scalable cloud storage;
 
--BChain: a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in the Hyperledger whitepaper;
+- BChain: a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in the Hyperledger whitepaper;
 
--Dyno: a fully-fledged production blockchain platform supporting dynamic membership and various privacy-preseving computation tools (MPC, FL, VSS, FHE). 
+- Dyno: a fully-fledged production blockchain platform supporting dynamic membership and various privacy-preseving computation tools (MPC, FL, VSS, FHE). 
 
 
 I have received Maryland Innovation Award and research funding from NSF China, the Ministry of Science and Technology China, US NSF, US DoE, US DHS, Norway research council, etc.  
