@@ -154,7 +154,7 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
 
 - Phil and I proved the security of ciphertext stealing for a NIST addendum. M. Dworkin. Recommendation for block cipher modes of operation: three variants of ciphertext stealing for CBC mode. Addendum to NIST Special Publication 800–38A. October 2010.
 
-- <a href="https://github.com/monero-project/urs">Unique ring signatures and Monero</a>.
+- <a href="https://github.com/monero-project/urs">Unique ring signatures and Monero</a>. Monero forked the unique ring siganture implementation of Hein Meling and me. The unique ring signature was due to Matt Franklin and me. 
 
 - A clean definition of online cipher was introduced in our RSA 2011 paper and widely used in subsequent online encryption and online authenticated encryption schemes (including
 the CAESAR competition candidates). 
