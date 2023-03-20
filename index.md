@@ -77,8 +77,7 @@ We also welcome researchers and assistant professors to join our group and work 
 
 ## Preprints
 
-- Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao, Xuanji Meng, Shengli Liu, Yong Yu, Fangguo Zhang, Liehuang Zhu. 
-Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
+
 
 - You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, Jianwei Liu. 
 Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. 
@@ -95,7 +94,8 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
-
+- Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao, Xuanji Meng, Shengli Liu, Yong Yu, Fangguo Zhang, Liehuang Zhu. 
+Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]. IEEE IFIP DSN 2023. 
 - Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang  and Haibin Zhang. 
 Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation. 
 ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="files/podcbrb.pdf">PDF</a>][<a href="https://eprint.iacr.org/2022/776">ePrint</a>]
