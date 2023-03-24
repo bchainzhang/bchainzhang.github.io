@@ -170,19 +170,19 @@ the CAESAR competition candidates).
 
 NDSS 2014 PC
 
+PETS 2024 PC / PoPETs 2024 Editorial Board
+
 ACM CCS 2023 PC
 
 IEEE MASS 2023 PC
-
-PETS 2024 PC / PoPETs 2024 Editorial Board
 
 <a href="https://www.ieee-security.org/TC/EuroSP2023/">IEEE EuroS&P 2023</a> 
 
 <a href="https://fc23.ifca.ai/">Financial Cryptography and Data Security (FC) 2023</a> 
 
-<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> 
-
 <a href="https://www.ndss-symposium.org/ndss2023-call-for-papers/">NDSS 2023</a> 
+
+<a href="https://sites.uclouvain.be/OPODIS2022/">OPODIS 2022</a> 
 
 <a href="https://ccsw.io/">ACM CCSW 2022</a> 
 
