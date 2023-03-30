@@ -2,7 +2,6 @@
 
 <div class="row">
   <div class="col-md-4">
-    <img src="img/haibin.png" style="width:15%">
   </div>
   <div class="col-md-4">
     Professor<br>
