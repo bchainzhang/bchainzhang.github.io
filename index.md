@@ -167,7 +167,7 @@ the CAESAR competition candidates).
 
 ## Recent conferences in which I am invovled (please consider submitting your work!): 
 
-NDSS 2014 PC
+NDSS 2024 PC
 
 PETS 2024 PC / PoPETs 2024 Editorial Board
 
