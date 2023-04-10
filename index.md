@@ -165,15 +165,19 @@ the CAESAR competition candidates).
 - The most communication-efficient AVID so far: PODC 2022 (BA). 
 
 
-## Recent conferences in which I am invovled (please consider submitting your work!): 
+## Recent conferences in which I am invovled as a PC member (please consider submitting your work!): 
 
-NDSS 2024 PC
+NDSS 2024 
 
 PETS 2024 PC / PoPETs 2024 Editorial Board
 
-ACM CCS 2023 PC
+ICDCN 2024 
 
-IEEE MASS 2023 PC
+ACM CCS 2023 
+
+IEEE MASS 2024
+
+ICICS 2024
 
 <a href="https://www.ieee-security.org/TC/EuroSP2023/">IEEE EuroS&P 2023</a> 
 
