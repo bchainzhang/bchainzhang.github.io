@@ -23,7 +23,7 @@ I am a professor (Teli Youth Fellow) in the prestigious <a href="https://arims.b
 
 I am interested in the intersection of distributed systems, applied cryptography, and security. 
 
-Previously, I worked as a Chief Research Scientist at Shandong Institute of Blockchain (China), an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received his Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
+Previously, I worked as a Chief Research Scientist at Shandong Institute of Blockchain (China), an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
 
 I received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext stealing. I received Maryland Innovation Award and research funding from NSF China, the Ministry of Science and Technology China, US NSF, US DoE, US DHS, Norway research council, etc.  
 
@@ -34,12 +34,7 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - BChain: a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in the Hyperledger whitepaper;
 
-- Dyno: a fully-fledged production blockchain platform supporting dynamic membership and various privacy-preseving computation tools (MPC, FL, VSS, FHE). 
-
-
-
-
-
+- Dyno: a fully-fledged production blockchain platform supporting dynamic membership and various privacy-preseving computation tools (MPC, FL, VSS, FHE). Dyno lays the foundation for open consortium blockchains, allowing consortium members to join and leave dynamically. 
 
 
 ## Some BFT/permissioned blockchain systems built
@@ -53,9 +48,11 @@ CP-BFT (DSN 2017, BFT with causal order without using threshold cryptography)
 
 BEAT (CCS 2018, asynchronous BFT made practical; a family of five state-of-the-art asychronous BFT protocols; open-source implementation [<a href="https://github.com/fififish/beat.git">Code</a>] See review from  <a href="https://blog.acolyer.org/2018/11/26/beat-asynchronous-bft-made-practical/">Morning Paper</a>)
 
-EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT protocols defend against static adversary, while EPIC tolerates adaptive adversary. Code to be released soon)
+EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT protocols defend against static adversary, while EPIC tolerates adaptive adversary.)
 
 <a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear</a> are two new asynchronous BFT protocols
+
+FIN (CCS 2023) is our latest system solving a long-standing open problem in BFT and MPC, being the first constant time information-theoretic BFT.  
 
 Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno, and Dashing and Star. 
 
