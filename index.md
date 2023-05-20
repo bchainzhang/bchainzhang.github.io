@@ -50,7 +50,7 @@ BEAT (CCS 2018, asynchronous BFT made practical; a family of five state-of-the-a
 
 EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT protocols defend against static adversary, while EPIC tolerates adaptive adversary.)
 
-<a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear</a> are two new asynchronous BFT protocols
+<a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear (USENIX Security)</a> are two new asynchronous BFT protocols
 
 FIN (CCS 2023) is our latest system solving a long-standing open problem in BFT and MPC, being the first constant time information-theoretic BFT.  
 
