@@ -90,7 +90,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
-- - Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT. USENIX Security 2023. [<a href="https://eprint.iacr.org/2022/021">eprint</a>]
+- Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT. USENIX Security 2023. [<a href="https://eprint.iacr.org/2022/021">eprint</a>]
 - Sisi Duan, Xin Wang, and Haibin Zhang. Practical Signature-Free Asynchronous Common Subset and BFT in Constant Time. ACM CCS 2023. 
 - Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao, Xuanji Meng, Shengli Liu, Yong Yu, Fangguo Zhang, Liehuang Zhu. 
 Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]. IEEE IFIP DSN 2023. 
