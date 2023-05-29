@@ -50,7 +50,7 @@ BEAT (CCS 2018, asynchronous BFT made practical; a family of five state-of-the-a
 
 EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT protocols defend against static adversary, while EPIC tolerates adaptive adversary.)
 
-<a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear (USENIX Security)</a> are two new asynchronous BFT protocols
+<a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear (USENIX Security 2023)</a> are two new asynchronous BFT protocols
 
 FIN (CCS 2023) is our latest system solving a long-standing open problem in BFT and MPC, being the first constant time information-theoretic BFT.  
 
@@ -157,12 +157,15 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
 - A clean definition of online cipher was introduced in our RSA 2011 paper and widely used in subsequent online encryption and online authenticated encryption schemes (including
 the CAESAR competition candidates). 
 
-- One of the state of the art ABA protocols so far: CCS 2022 (Pillar). Pillar has on average 12 steps to terminate and assumes common coins and authenticated channels only. 
+- The state of the art ABA protocol so far: CCS 2022 (Pillar). Pillar has on average 12 steps to terminate and assumes common coins and authenticated channels only. 
+
+- Our WaterBear paper (USENIX Security 2023) contains the most efficient ABA protocol from weak common coins. 
 
 - The most communication-efficient RBC so far: PODC 2022. 
 
 - The most communication-efficient AVID so far: PODC 2022 (BA). 
 
+- RABA (reprosable ABA) in our PACE paper is a powerful and useful distributed computing primitive: so far, we have successfully used it in many different settings (parallel BFT, ADKG, BFT with quantum security, and constant-time and signature-free BFT), but we DO feel it still has great potential in various other settings! Join us to use and develop this primitive! 
 
 ## Recent conferences in which I am invovled as a PC member (please consider submitting your work!): 
 
