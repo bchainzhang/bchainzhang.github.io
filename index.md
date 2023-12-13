@@ -91,7 +91,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 ## Publication
 - Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang. Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE. Asiacrypt 2023. [<a href="https://eprint.iacr.org/2023/1324">eprint</a>]
-- Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="files/bg.pdf">PDF</a>] [<a href="https://eprint.iacr.org/2022/1433">eprint</a>] This is our new paper trying to provide a "unified" theory for BFT replication. IEEE TIFS. 
+- Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>] [<a href="https://eprint.iacr.org/2022/1433">eprint</a>] This is our new paper trying to provide a "unified" theory for BFT replication. IEEE TIFS. 
 - Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT. USENIX Security 2023. [<a href="https://eprint.iacr.org/2022/021">eprint</a>]
 - Sisi Duan, Xin Wang, and Haibin Zhang. FIN: Practical Signature-Free Asynchronous Common Subset in Constant Time. ACM CCS 2023. [<a href="https://eprint.iacr.org/2023/154">eprint</a>]
 - Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao, Xuanji Meng, Shengli Liu, Yong Yu, Fangguo Zhang, Liehuang Zhu. 
