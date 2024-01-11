@@ -82,14 +82,15 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 
-- Sisi Duan, Haibin Zhang, Xiao Sui, Baohan Huang, Changchun Mu, Gang Di, Xiaoyun Wang. Dashing and Star: Byzantine Fault Tolerance Using Weak Certificates. 
-[<a href="https://eprint.iacr.org/2022/625">eprint</a>]
+
 
 
 
 
 
 ## Publication
+- Sisi Duan, Haibin Zhang, Xiao Sui, Baohan Huang, Changchun Mu, Gang Di, Xiaoyun Wang. Dashing and Star: Byzantine Fault Tolerance Using Weak Certificates. Eurosys 2024. 
+[<a href="https://eprint.iacr.org/2022/625">eprint</a>] 
 - Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang. Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE. Asiacrypt 2023. [<a href="https://eprint.iacr.org/2023/1324">eprint</a>]
 - Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>] [<a href="https://eprint.iacr.org/2022/1433">eprint</a>] This is our new paper trying to provide a "unified" theory for BFT replication. IEEE TIFS. 
 - Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT. USENIX Security 2023. [<a href="https://eprint.iacr.org/2022/021">eprint</a>]
