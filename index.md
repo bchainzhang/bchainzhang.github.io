@@ -53,7 +53,7 @@ EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT 
 
 FIN (CCS 2023) is our latest system solving a long-standing open problem in BFT and MPC, being the first constant time information-theoretic BFT.  
 
-Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno, and Dashing and Star. 
+Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno, and our EuroSys 2024 paper---Dashing and Star. 
 
 I am also recently interested in designing and building distributed and cryptographic systems such as ACSS, AVSS, ADKG, and APSS, systems in synchronous settings, and MPC. 
 
@@ -88,7 +88,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
-- Sisi Duan, Haibin Zhang, Xiao Sui, Baohan Huang, Changchun Mu, Gang Di, Xiaoyun Wang. Dashing and Star: Byzantine Fault Tolerance Using Weak Certificates. Eurosys 2024. 
+- Sisi Duan, Haibin Zhang, Xiao Sui, Baohan Huang, Changchun Mu, Gang Di, Xiaoyun Wang. Dashing and Star: Byzantine Fault Tolerance Using Weak Certificates. EuroSys 2024. 
 [<a href="https://eprint.iacr.org/2022/625">eprint</a>] 
 - Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang. Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE. Asiacrypt 2023. [<a href="https://eprint.iacr.org/2023/1324">eprint</a>]
 - Xiao Sui, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of Byzantine Consensus. [<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>] [<a href="https://eprint.iacr.org/2022/1433">eprint</a>] This is our new paper trying to provide a "unified" theory for BFT replication. IEEE TIFS. 
