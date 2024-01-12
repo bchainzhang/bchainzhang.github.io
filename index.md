@@ -204,7 +204,7 @@ More importantly, I really want to advertise and promote international conferenc
 and help exchange academic ideas and advance knowledge. (The world is somewhat more disconneted due to COVID. No?:)) 
 
 
-I am certainly biased, but I am particularly interested and committed in promoting less established but high-quality conferences in China. Doing so may help these conferences more vigorous (e.g., by receiving more high-quality submissions), help researchers in China have more balanced research (now somewhat impacted by the CCF short list---some of those conferences not in the list, unfortunately, are ones with areas that are under-developed), and help researchers who published papers in these conferences get the recognization that they deserve.  
+I am certainly biased, but I am particularly interested and committed in promoting less established but high-quality conferences in China. Doing so may help these conferences gain in popularity (e.g., by receiving more high-quality submissions), help researchers in China have more balanced research (now somewhat impacted by the CCF short list---some of those conferences not in the list, unfortunately, are ones with areas that are under-developed), and help researchers who published papers in these conferences get the recognization they deserve.  
 
 
 
