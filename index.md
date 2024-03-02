@@ -36,7 +36,9 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - BChain: a highly efficient BFT protocol fully implemented within Hyperledger blockchain framework and featured in the Hyperledger whitepaper;
 
-- Dyno: a fully-fledged production blockchain platform supporting dynamic membership and various privacy-preseving computation tools (MPC, FL, VSS, FHE). Dyno lays the foundation for open consortium blockchains, allowing consortium members to join and leave dynamically. 
+- Dyno: a fully-fledged production blockchain platform supporting dynamic membership and various privacy-preseving computation tools (MPC, FL, VSS, FHE). Dyno lays the foundation for open consortium blockchains, allowing consortium members to join and leave dynamically;  
+
+- Dashing/Star: a deployed popular blockchain platform used in many real applications. 
 
 
 ## Some BFT/permissioned blockchain systems built
