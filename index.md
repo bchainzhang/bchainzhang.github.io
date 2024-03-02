@@ -1,5 +1,8 @@
 ## Haibin Zhang
 
+I am the Director / Head of the Instituite of Information Technology at Yangtze Delta Region Institute of Tsinghua University, Zhejiang. 
+ 
+
 <div class="row">
   <div class="col-md-4">
   </div>
@@ -59,24 +62,18 @@ I am also recently interested in designing and building distributed and cryptogr
 
 
 ## Openings!
-I have many openings for PhDs, masters, and postdocs. 
 
-Students/PhD students with computer science, cryptography, or security background are encouraged to send me an email!
-
-We also welcome researchers and assistant professors to join our group and work together with us. 
+Our institute has openings for PIs, research scientists, coders, staff, postdocs, PhDs, masters, and interns. 
 
 
 
-
-
-
-## Preprints
+<!---## Preprints
 
 
 
 - You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, Jianwei Liu. 
 Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. 
-[<a href="https://eprint.iacr.org/2022/1709">eprint</a>]
+[<a href="https://eprint.iacr.org/2022/1709">eprint</a>] --->
 
 
 
