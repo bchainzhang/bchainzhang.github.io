@@ -87,6 +87,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
+-  PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. Chenglu Jin, Chao Yin, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. ACM CCS 2024. 
 - Sisi Duan, Haibin Zhang, Xiao Sui, Baohan Huang, Changchun Mu, Gang Di, Xiaoyun Wang. Dashing and Star: Byzantine Fault Tolerance Using Weak Certificates. EuroSys 2024. 
 [<a href="https://eprint.iacr.org/2022/625">eprint</a>] 
 - Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang. Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE. Asiacrypt 2023. [<a href="https://eprint.iacr.org/2023/1324">eprint</a>]
