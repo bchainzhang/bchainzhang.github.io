@@ -150,6 +150,7 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
 
 ### Some Other Research and Industry Impacts
 
+
 - I am one of the three main inventors of <a href="https://en.wikipedia.org/wiki/Norton_Zone">Norton Zone</a>, Symantec's Commercial Cloud Storage Platform. 
 
 - Phil and I proved the security of ciphertext stealing for a NIST addendum. M. Dworkin. Recommendation for block cipher modes of operation: three variants of ciphertext stealing for CBC mode. Addendum to NIST Special Publication 800–38A. October 2010.
@@ -170,6 +171,8 @@ the CAESAR competition candidates).
 - RABA (reprosable ABA) in our PACE paper is a powerful and useful distributed computing primitive: so far, we have successfully used it in many different settings (parallel BFT, ADKG, BFT with quantum security, and constant-time and signature-free BFT), but we DO feel it still has great potential in various other settings! Join us to use and develop this primitive! 
 
 ## Recent conferences in which I am invovled as a PC member (please consider submitting your work!): 
+
+ACM CCS 2025
 
 NDSS 2025 
 
