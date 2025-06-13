@@ -91,6 +91,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 - Zhaoyang Xie, Haibin Zhang, Sisi Duan, Chao Liu, Shengli Liu, Xuanji Meng, Yong Yu, Fangguo Zhang, Boxin Zhao, Liehuang Zhu, and Tianqing Zhu. Everything Distributed and Asynchronous: A Practical System for Key Management Service. IEEE TPDS 2025.
 - Xiao Sui, Qichang Liu, Haibin Zhang, and Sisi Duan. Pike: Two-Phase BFT with Linearity and Flexible View Change. IEEE Transactions on Computers, 2025. 
 - Chao Liu, Sisi Duan, and Haibin Zhang. MiB: Asynchronous BFT with More Replicas. IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
+-  Baohan Huang, Haibin Zhang, Chao Liu, Shengli Liu, Yong Yu, Fangguo Zhange, Liehuang Zhu. How to Reduce the Number of Steps for (Multi-Valued Validated) Byzantine Agreement? JPDC, 2025. 
 -  Yongdan Wang, Haibin Zhang, Baohan Huang, Zhijun Lin, and Chuan Pang. LSTM Stock Prediction Model Based on Blockchain. High confidence computing, 2025.  
 -  Chenglu Jin, Chao Yin, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. ACM CCS 2024.
 -  Qichang Liu, Xufeng Zhang, Sisi Duan, and Haibin Zhang. Enhancing Permissioned Blockchains with Controlled Data Authorization. ACISP 2024.
