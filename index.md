@@ -23,7 +23,7 @@ I am the Director / Head of the Department of Information Technology at Yangtze 
 
 <!---I am a Professor (Teli Youth Fellow) in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. Moreover, I am a Chief Scientist for the National R&D Project. --->
 
-I am interested in the intersection of distributed systems, applied cryptography, and security. 
+I am interested in the intersection of distributed systems, applied cryptography,  security, and AI. 
 
 Previously, I worked as  a professor and Teli Youth Fellow at Beijing Institute of Technology, a Chief Research Scientist at Shandong Institute of Blockchain, an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
 
@@ -38,7 +38,8 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - Dyno: a fully-fledged production blockchain platform supporting dynamic membership and various privacy-preseving computation tools (MPC, FL, VSS, FHE). Dyno lays the foundation for open consortium blockchains, allowing consortium members to join and leave dynamically;  
 
-- Dashing/Star: a deployed popular blockchain platform used in various real applications. 
+- Dashing/Star: a deployed popular blockchain platform used in various real applications.
+
 
 
 ## Some BFT/permissioned blockchain systems built
