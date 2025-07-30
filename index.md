@@ -182,6 +182,8 @@ the CAESAR competition candidates).
 
 ## Recent conferences in which I am invovled as a PC member (please consider submitting your work!): 
 
+ACM CCS 2026
+
 ACM CCS 2025
 
 NDSS 2025 
