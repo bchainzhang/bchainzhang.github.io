@@ -88,7 +88,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
-- Yunxiao Zhou, Zhaoyang Xie, Wenzhong Li, Shengli Liu, and Haibin Zhang. Controllable Access Control in Permissioned Blockchains via Controllable Threshold Proxy Re-Encryption. IEEE TIFS 2025. 
+- Wenzhong Li, Zhaoyang Xie, Shengli Liu, Yunxiao Zhou, and Haibin Zhang. Controllable Access Control in Permissioned Blockchains via Controllable Threshold Proxy Re-Encryption. IEEE TIFS 2025. 
 - Rujia Li, Jingyuan Ding, Qin Wang, Keting Jia, Haibin Zhang, and Sisi Duan. Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus. Usenix Security 2025.
 - Xufeng Zhang, Baohan Huang, Sisi Duan, and Haibin Zhang. Randomized vs. Deterministic? Practical Randomized Synchronous
   BFT in Expected Constant Time. IEEE SRDS 2025. 
