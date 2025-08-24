@@ -97,7 +97,8 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 - Xufeng Zhang, Baohan Huang, Sisi Duan, and Haibin Zhang. Randomized vs. Deterministic? Practical Randomized Synchronous
   BFT in Expected Constant Time. IEEE SRDS 2025. 
 - Zhaoyang Xie, Haibin Zhang, Sisi Duan, Chao Liu, Shengli Liu, Xuanji Meng, Yong Yu, Fangguo Zhang, Boxin Zhao, Liehuang Zhu, and Tianqing Zhu. Everything Distributed and Asynchronous: A Practical System for Key Management Service. IEEE TPDS 2025.
-- Xiao Sui, Qichang Liu, Haibin Zhang, and Sisi Duan. Pike: Two-Phase BFT with Linearity and Flexible View Change. IEEE Transactions on Computers, 2025. 
+- Xiao Sui, Qichang Liu, Haibin Zhang, and Sisi Duan. Pike: Two-Phase BFT with Linearity and Flexible View Change. IEEE Transactions on Computers, 2025.
+- Xin Wang, Xiao Sui, Sisi Duan, and Haibin Zhang. Practical Signature-Free Asynchronous Common Subset in Constant Time.  IEEE Transactions on Computers, 2025.
 - Chao Liu, Sisi Duan, and Haibin Zhang. MiB: Asynchronous BFT with More Replicas. IEEE Transactions on Dependable and Secure Computing (TDSC), 2025.
 -  Baohan Huang, Haibin Zhang, Chao Liu, Shengli Liu, Yong Yu, Fangguo Zhange, Liehuang Zhu. How to Reduce the Number of Steps for (Multi-Valued Validated) Byzantine Agreement? JPDC, 2025. 
 -  Yongdan Wang, Haibin Zhang, Baohan Huang, Zhijun Lin, and Chuan Pang. LSTM Stock Prediction Model Based on Blockchain. High confidence computing, 2025.  
