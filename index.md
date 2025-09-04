@@ -91,6 +91,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 - Xin Wang, Haochen Wang, Haibin Zhang, Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. NDSS 2026. 
 - Yue Hang, Xin Wang, Sisi Duan, and Haibin Zhang. Cross-Consensus Reliable Broadcast and its Applications. NDSS 2026. 
 - Rujia Li, Jingyuan Ding, Qin Wang, Keting Jia, Haibin Zhang, and Sisi Duan. Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus. Usenix Security 2025.
+- Yanqi Zhao, Xiangyu Liu, Min Xie, Xiaoyi Yang, Jianting Ning, Baodong Qin, Haibin Zhang, and Yong Yu. Anonymous Authentication and Key Agreement, Revisited. ACSAC 2025. 
 - Nicolas Alhaddad, Sisi Duan, Mayank Varia, Haochen Wang, and Haibin Zhang. Efficient Byzantine Broadcast from Succinct Erasure Coding Proof System. IEEE TIFS 2025. 
 - Yuxin Zhang, Shengli Liu, Yunxiao Zhou, and Haibin Zhang. Full-Grained Proxy Re-Encryption for All Circuits. Theoretical Computer Science, 2025. 
 - Wenzhong Li, Zhaoyang Xie, Shengli Liu, Yunxiao Zhou, and Haibin Zhang. Controllable Access Control in Permissioned Blockchains via Controllable Threshold Proxy Re-Encryption. IEEE TIFS 2025. 
