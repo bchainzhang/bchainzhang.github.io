@@ -40,7 +40,7 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - Dashing/Star: a deployed popular blockchain platform used in various real applications.
 
-
+Besides, my colleages and I developed some AI reasoning and agent systems; I have a growing interests in building AI systems. 
 
 ## Some BFT/permissioned blockchain systems built
 ByzID (SRDS 2014, Best Paper Candidate, BFT using small trusted components)<br>
@@ -170,7 +170,7 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
 
 - I am one of the three main inventors of <a href="https://en.wikipedia.org/wiki/Norton_Zone">Norton Zone</a>, Symantec's Commercial Cloud Storage Platform. 
 
-- Phil and I proved the security of ciphertext stealing for a NIST addendum. M. Dworkin. Recommendation for block cipher modes of operation: three variants of ciphertext stealing for CBC mode. Addendum to NIST Special Publication 800–38A. October 2010.
+- Phil, Mark, and I proved the security of ciphertext stealing for a NIST addendum. Recommendation for block cipher modes of operation: three variants of ciphertext stealing for CBC mode. Addendum to NIST Special Publication 800–38A. October 2010.
 
 - <a href="https://github.com/monero-project/urs">Unique ring signatures and Monero</a>. Monero forked the unique ring siganture implementation of Hein Meling and me. The unique ring signature was due to Matt Franklin and me. 
 
