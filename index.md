@@ -1,6 +1,6 @@
 ## Haibin Zhang
 
-I am the Director / Head of the Department of Information Technology at Yangtze Delta Region Institute of Tsinghua University, Zhejiang. 
+I am Director / Head of the Department of Information Technology at Yangtze Delta Region Institute of Tsinghua University, Zhejiang. 
  
 
 <div class="row">
