@@ -40,7 +40,9 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - Dashing/Star: a deployed popular blockchain platform used in various real applications.
 
-Besides, my colleages and I developed some AI reasoning and agent systems; I have a growing interests in building AI systems. 
+Recently, my colleages and I have some nice work on AI reasoning and agent systems; I have a growing interests in building AI and AI security systems. 
+
+
 
 ## Some BFT/permissioned blockchain systems built
 ByzID (SRDS 2014, Best Paper Candidate, BFT using small trusted components)<br>
