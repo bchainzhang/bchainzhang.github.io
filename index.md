@@ -88,8 +88,10 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
+- Yu Cui, Sicheng Pan, Yifei Liu, Haibin Zhang, and Cong Zuo. VortexPIA: Indirect Prompt Injection Attack against LLMs for Efficient Extraction of User Privacy. EACL 2026.
 - Xin Wang, Haochen Wang, Haibin Zhang, Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. NDSS 2026. 
-- Yue Hang, Xin Wang, Sisi Duan, and Haibin Zhang. Cross-Consensus Reliable Broadcast and its Applications. NDSS 2026. 
+- Yue Hang, Xin Wang, Sisi Duan, and Haibin Zhang. Cross-Consensus Reliable Broadcast and its Applications. NDSS 2026.
+- Yifei Liu, Yu Cui, and Haibin Zhang. RRTL: Red Teaming Reasoning Large Language Models in Tool Learning. IEEE Internet of Things Journal, 2026. 
 - Rujia Li, Jingyuan Ding, Qin Wang, Keting Jia, Haibin Zhang, and Sisi Duan. Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus. Usenix Security 2025.
 - Yanqi Zhao, Xiangyu Liu, Min Xie, Xiaoyi Yang, Jianting Ning, Baodong Qin, Haibin Zhang, and Yong Yu. Anonymous Authentication and Key Agreement, Revisited. ACSAC 2025.
 -  ZhaoyangXie, HaibinZhang, Shengli Liu, Sisi Duan, and LiehuangZhu. Practical Constant-Time Asynchronous Distributed Key Generation With Improved Eﬃciency. TIFS 2025. 
