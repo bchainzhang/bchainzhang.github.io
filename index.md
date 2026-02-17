@@ -90,6 +90,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
+- Baohan Huang, Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. Practical Asynchronous BFT From Local Coins. IEEE Transactions on Computers, 2026.  
 - Yu Cui, Sicheng Pan, Yifei Liu, Haibin Zhang, and Cong Zuo. VortexPIA: Indirect Prompt Injection Attack against LLMs for Efficient Extraction of User Privacy. EACL 2026.
 - Xin Wang, Haochen Wang, Haibin Zhang, Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. NDSS 2026. 
 - Yue Hang, Xin Wang, Sisi Duan, and Haibin Zhang. Cross-Consensus Reliable Broadcast and its Applications. NDSS 2026.
