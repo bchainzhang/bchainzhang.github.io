@@ -40,11 +40,11 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - Dashing/Star: a deployed popular blockchain platform used in various real applications.
 
-Recently, my colleages and I have some nice work on AI reasoning and agent systems; I have a growing interests in building AI and AI security systems. 
+Recently, my colleages and I have some nice work on AI reasoning and agent systems; I have a growing interests in building AI and AI security systems: 
 
+- Free-MAD (ACL 2026): a consensus-free multi-agent debate system that has been used in a number of production systems. 
 
-
-## Some BFT/permissioned blockchain systems built
+## BFT/permissioned blockchain systems built
 ByzID (SRDS 2014, Best Paper Candidate, BFT using small trusted components)<br>
 
 BChain (OPODIS 2014, chain-based high-throughput BFT, used in Hyperledger Iroha, featured in <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf">Hyperledger white paper</a>. In fact, this is the only BFT protocol that does not rely on PBFT in the Hyperledger framework.)
