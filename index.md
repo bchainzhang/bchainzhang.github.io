@@ -23,7 +23,7 @@ I am Director / Head of the Department of Information Technology at Yangtze Delt
 
 <!---I am a Professor (Teli Youth Fellow) in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. Moreover, I am a Chief Scientist for the National R&D Project. --->
 
-I am interested in the intersection of distributed systems, applied cryptography,  security, and AI. 
+I am interested in the intersection of distributed systems, cryptography, security, and AI. 
 
 Previously, I worked as  a professor and Teli Youth Fellow at Beijing Institute of Technology, a Chief Research Scientist at Shandong Institute of Blockchain, an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
 
@@ -90,6 +90,8 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
+- Yu Cui, Hang Fu, Haibin Zhang, Licheng Wang, and Cong Zuo. Free-MAD: Consensus-Free Multi-Agent Debate. ACL 2026 Findings. 
+- Yu Cui, Hang Fu, Sicheng Pan, Zhuoyu Sun, Yifei Liu, Yuhong Nie, Bo Ran, Baohan Huang, Xufeng Zhang, Haibin Zhang, Cong Zuo, and Licheng Wang. Towards Provably Secure Generative AI: Reliable Consensus Sampling. ACL 2026 Findings. 
 - Baohan Huang, Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. Practical Asynchronous BFT From Local Coins. IEEE Transactions on Computers, 2026.  
 - Yu Cui, Sicheng Pan, Yifei Liu, Haibin Zhang, and Cong Zuo. VortexPIA: Indirect Prompt Injection Attack against LLMs for Efficient Extraction of User Privacy. EACL 2026.
 - Xin Wang, Haochen Wang, Haibin Zhang, Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. NDSS 2026. 
