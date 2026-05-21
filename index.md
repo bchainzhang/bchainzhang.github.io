@@ -23,11 +23,11 @@ I am Director / Head of the Department of Information Technology at Yangtze Delt
 
 <!---I am a Professor (Teli Youth Fellow) in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. Moreover, I am a Chief Scientist for the National R&D Project. --->
 
-I am interested in the intersection of distributed systems, cryptography, security, and AI. 
+I am interested in the intersection of distributed systems, cryptography, security, AI, LLM, and agents. 
 
-Previously, I worked as  a professor and Teli Youth Fellow at Beijing Institute of Technology, a Chief Research Scientist at Shandong Institute of Blockchain, an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
+Previously, I worked as a professor and Teli Youth Fellow at Beijing Institute of Technology, a Chief Research Scientist at Shandong Institute of Blockchain, an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
 
-I received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext stealing. I received Maryland Innovation Award and research funding from NSF China, the Ministry of Science and Technology China, US NSF, US DoE, US DHS, Norway research council, etc.  
+<!---I received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext stealing. I received Maryland Innovation Award and research funding from NSF China, the Ministry of Science and Technology China, US NSF, US DoE, US DHS, Norway research council, etc.--->  
 
 
 I am one of the main inventors of many industry and production large-scale distributed systems such as:
