@@ -23,14 +23,14 @@ I am Director / Head of the Department of Information Technology at Yangtze Delt
 
 <!---I am a Professor (Teli Youth Fellow) in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. Moreover, I am a Chief Scientist for the National R&D Project. --->
 
-I am interested in the intersection of distributed systems, cryptography, security, AI, LLM, and agents. 
+I am interested in distributed systems, cryptography, security, AI, LLM, and agents. 
 
 Previously, I worked as a professor and Teli Youth Fellow at Beijing Institute of Technology, a Chief Research Scientist at Shandong Institute of Blockchain, an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
 
 <!---I received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext stealing. I received Maryland Innovation Award and research funding from NSF China, the Ministry of Science and Technology China, US NSF, US DoE, US DHS, Norway research council, etc.--->  
 
 
-I am one of the main inventors of many industry and production large-scale distributed systems such as:
+I am one of the main inventors of many industry and production large-scale distributed systems and AI systems such as:
 
 - Norton Zone: Symantec’s scalable cloud storage;
 
@@ -40,9 +40,11 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - Dashing/Star: a deployed popular blockchain platform used in various real applications.
 
-Recently, my colleages and I have some nice work on AI reasoning and agent systems; I have a growing interests in building AI and AI security systems: 
+<!---Recently, my colleages and I have some nice work on AI reasoning and agent systems; I have a growing interests in building AI and AI security systems: ---> 
 
 - Free-MAD (ACL 2026): a consensus-free multi-agent debate system that has been used in a number of production systems. 
+
+- MAX-MAD multi-agent system: a popular MAS system leveraging Free-MAD and rotating leader debate to improve the performance and accuracy of multi-agent systems. 
 
 ## BFT/permissioned blockchain systems built
 ByzID (SRDS 2014, Best Paper Candidate, BFT using small trusted components)<br>
@@ -61,7 +63,7 @@ EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT 
 
 FIN (CCS 2023) is our latest system solving a long-standing open problem in BFT and MPC, being the first constant time information-theoretic BFT.  
 
-Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno, and our EuroSys 2024 paper---Dashing and Star. 
+Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno,  our EuroSys 2024 paper---Dashing and Star, our NDSS 2026 paper---Pando. 
 
 I am also recently interested in designing and building distributed and cryptographic systems such as ACSS, AVSS, ADKG, and APSS, systems in synchronous settings, and MPC. 
 
