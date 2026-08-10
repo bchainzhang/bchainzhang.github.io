@@ -1,7 +1,6 @@
 ## Haibin Zhang
 
 I am Director / Head of the Department of Information Technology at Yangtze Delta Region Institute of Tsinghua University, Zhejiang. 
- 
 
 <div class="row">
   <div class="col-md-4">
@@ -23,9 +22,10 @@ I am Director / Head of the Department of Information Technology at Yangtze Delt
 
 <!---I am a Professor (Teli Youth Fellow) in the prestigious <a href="https://arims.bit.edu.cn/">Advanced Research Institute of Multidisciplinary Sciences</a> at Beijing Institute of Technology, China. I am also a PhD advisor in both School of Computer Science and Technology and School of Cyberspace Science and Technology. Moreover, I am a Chief Scientist for the National R&D Project. --->
 
-I am interested in distributed systems, cryptography, security, AI, LLM, and agents. 
+I am interested in distributed systems, cryptography, security, AI, LLM, and agents. [<a href="https://scholar.google.com/citations?hl=en&user=3gG28HEAAAAJ">Google Scholar</a>]
+ 
 
-Previously, I worked as a professor and Teli Youth Fellow at Beijing Institute of Technology, a Chief Research Scientist at Shandong Institute of Blockchain, an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin). 
+<!---Previously, I worked as a professor and Teli Youth Fellow at Beijing Institute of Technology, a Chief Research Scientist at Shandong Institute of Blockchain, an Assistant Professor in the Department of Computer Science and Electrical Engineering at University of Maryland, Baltimore County (USA), and a postdoctoral researcher for two NSF frontier projects on cloud security: the MACS project at UConn (with Prof. Marten van Dijk) and the Project Silver at UNC Chapel Hill (with Prof. Michael K. Reiter). I received my Ph.D. from the University of California, Davis (with Prof. Matthew K. Franklin).---> 
 
 <!---I received the best paper candidate award at the 33rd IEEE International Symposium on Reliable Distributed Systems and proved the security of a NIST standard on ciphertext stealing. I received Maryland Innovation Award and research funding from NSF China, the Ministry of Science and Technology China, US NSF, US DoE, US DHS, Norway research council, etc.--->  
 
@@ -46,31 +46,12 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - MAX-MAD multi-agent system: a popular MAS system leveraging Free-MAD and rotating leader debate to improve the performance and accuracy of multi-agent systems. 
 
-## BFT/permissioned blockchain systems built
-ByzID (SRDS 2014, Best Paper Candidate, BFT using small trusted components)<br>
 
-BChain (OPODIS 2014, chain-based high-throughput BFT, used in Hyperledger Iroha, featured in <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf">Hyperledger white paper</a>. In fact, this is the only BFT protocol that does not rely on PBFT in the Hyperledger framework.)
-
-CBFT (SRDS 2016, BFT with confidentiality; if you want to achieve private smart contracts without using TEEs, you may be interested in the paper)
-
-CP-BFT (DSN 2017, BFT with causal order without using threshold cryptography)
-
-BEAT (CCS 2018, asynchronous BFT made practical; a family of five state-of-the-art asychronous BFT protocols; open-source implementation [<a href="https://github.com/fififish/beat.git">Code</a>] See review from  <a href="https://blog.acolyer.org/2018/11/26/beat-asynchronous-bft-made-practical/">Morning Paper</a>)
-
-EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT protocols defend against static adversary, while EPIC tolerates adaptive adversary.)
-
-<a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear (USENIX Security 2023)</a> are two new asynchronous BFT protocols
-
-FIN (CCS 2023) is our latest system solving a long-standing open problem in BFT and MPC, being the first constant time information-theoretic BFT.  
-
-Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno,  our EuroSys 2024 paper---Dashing and Star, our NDSS 2026 paper---Pando. 
-
-I am also recently interested in designing and building distributed and cryptographic systems such as ACSS, AVSS, ADKG, and APSS, systems in synchronous settings, and MPC. 
 
 
 ## Openings!
 
-Our institute has openings for PIs, research scientists, coders, staff, postdocs, PhDs, masters, and interns. 
+Our institute has AI related openings for PIs, research scientists, coders, staff, postdocs, PhDs, masters, and interns. 
 
 
 
@@ -86,8 +67,16 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 
+## Preprints
 
 
+- Y Cui, H Fu, L Wang, H Zhang. Ramp Up NTT in Record Time using GPU-Accelerated Algorithms and LLM-based Code Generation. 
+
+- Y Cui, R Yue, T Li, S Pan, Z Sun, X Zhang, B Huang, H Zhang, C Zuo. Refusal is Not Safety! Benchmarking Latent Safety Risks of LLM-Driven Content Humorization. 
+
+- Y Cui, R Yue, H Fu, S Pan, Z Sun, B Huang, H Zhang, C Zuo, L Wang. Spore: Efficient and Training-Free Privacy Extraction Attack on LLMs via Inference-Time Hybrid Probing.
+
+- Y Cui, Y Liu, H Fu, S Pan, H Zhang, C Zuo, L Wang. Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion.
 
 
 
@@ -172,7 +161,27 @@ ACM Symposium on Principles of Distributed Computing (PODC), 2022. [<a href="htt
   
 
 
+## BFT/permissioned blockchain systems built
+ByzID (SRDS 2014, Best Paper Candidate, BFT using small trusted components)<br>
 
+BChain (OPODIS 2014, chain-based high-throughput BFT, used in Hyperledger Iroha, featured in <a href="https://www.hyperledger.org/wp-content/uploads/2017/08/Hyperledger_Arch_WG_Paper_1_Consensus.pdf">Hyperledger white paper</a>. In fact, this is the only BFT protocol that does not rely on PBFT in the Hyperledger framework.)
+
+CBFT (SRDS 2016, BFT with confidentiality; if you want to achieve private smart contracts without using TEEs, you may be interested in the paper)
+
+CP-BFT (DSN 2017, BFT with causal order without using threshold cryptography)
+
+
+BEAT (CCS 2018, asynchronous BFT made practical; a family of five state-of-the-art asychronous BFT protocols; open-source implementation [<a href="https://github.com/fififish/beat.git">Code</a>] See review from  <a href="https://blog.acolyer.org/2018/11/26/beat-asynchronous-bft-made-practical/">Morning Paper</a>)
+
+EPIC (DSN 2020, asynchronous BFT with adaptive security. Prior asynchronous BFT protocols defend against static adversary, while EPIC tolerates adaptive adversary.)
+
+<a href="https://eprint.iacr.org/2022/020">PACE (CCS 2022)</a> and <a href="https://eprint.iacr.org/2022/021">WaterBear (USENIX Security 2023)</a> are two new asynchronous BFT protocols
+
+FIN (CCS 2023) is our latest system solving a long-standing open problem in BFT and MPC, being the first constant time information-theoretic BFT.  
+
+Recently, I am interested in building highly efficient partially synchronous BFT protocols, e.g., our DSN 2022 paper---Marlin, our Oakland 2022 Paper---Dyno,  our EuroSys 2024 paper---Dashing and Star, our NDSS 2026 paper---Pando. 
+
+I am also recently interested in designing and building distributed and cryptographic systems such as ACSS, AVSS, ADKG, and APSS, systems in synchronous settings, and MPC. 
 
 
 ### Some Other Research and Industry Impacts
