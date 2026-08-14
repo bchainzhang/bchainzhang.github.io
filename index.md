@@ -82,7 +82,8 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 ## Publication
 - Yu Cui, Hang Fu, Haibin Zhang, Licheng Wang, and Cong Zuo. Free-MAD: Consensus-Free Multi-Agent Debate. ACL 2026 Findings. 
-- Yu Cui, Hang Fu, Sicheng Pan, Zhuoyu Sun, Yifei Liu, Yuhong Nie, Bo Ran, Baohan Huang, Xufeng Zhang, Haibin Zhang, Cong Zuo, and Licheng Wang. Towards Provably Secure Generative AI: Reliable Consensus Sampling. ACL 2026 Findings. 
+- Yu Cui, Hang Fu, Sicheng Pan, Zhuoyu Sun, Yifei Liu, Yuhong Nie, Bo Ran, Baohan Huang, Xufeng Zhang, Haibin Zhang, Cong Zuo, and Licheng Wang. Towards Provably Secure Generative AI: Reliable Consensus Sampling. ACL 2026 Findings.
+-  Xuyang Liu, Zijian Zhang, Haibin Zhang, Jiamou Liu, Meng Li, Zhen Li, Mengmeng Zhou, Wei Shen, Peng Jiang, Cong Guo, and Liehuang Zhu. ROPSCON: Linear BFT From Schnorr Threshold Signatures. IEEE Transactions on Computers. 
 - Baohan Huang, Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. Practical Asynchronous BFT From Local Coins. IEEE Transactions on Computers, 2026.  
 - Yu Cui, Sicheng Pan, Yifei Liu, Haibin Zhang, and Cong Zuo. VortexPIA: Indirect Prompt Injection Attack against LLMs for Efficient Extraction of User Privacy. EACL 2026.
 - Xin Wang, Haochen Wang, Haibin Zhang, Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. NDSS 2026. 
