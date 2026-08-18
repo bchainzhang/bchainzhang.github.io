@@ -46,6 +46,7 @@ I am one of the main inventors of many industry and production large-scale distr
 
 - MAX-MAD multi-agent system: a popular MAS system leveraging Free-MAD and rotating leader debate to improve the performance and accuracy of multi-agent systems. 
 
+- PowerHub: an AI pipeline system that simultaneously integrates and optimizes "all" AI layers and reduces the deployment time significantly.    
 
 
 
