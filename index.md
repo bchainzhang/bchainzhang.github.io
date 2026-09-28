@@ -82,7 +82,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
-
+- 
 - Yu Cui, Yifei Liu, Hang Fu, Sicheng Pan, Haibin Zhang, Cong Zuo, and Licheng Wang.
 Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion. AACL 2026. 
 - Yu Cui, Hang Fu, Haibin Zhang, Licheng Wang, and Cong Zuo. Free-MAD: Consensus-Free Multi-Agent Debate. ACL 2026 Findings. 
@@ -200,8 +200,7 @@ I am also recently interested in designing and building distributed and cryptogr
 
 - <a href="https://github.com/monero-project/urs">Unique ring signatures and Monero</a>. Monero forked the unique ring siganture implementation of Hein Meling and me. The unique ring signature was due to Matt Franklin and me. 
 
-- A clean definition of online cipher was introduced in our RSA 2011 paper and widely used in subsequent online encryption and online authenticated encryption schemes (including
-the CAESAR competition candidates). 
+- A clean definition of online cipher was introduced in our RSA 2011 paper and widely used in subsequent online encryption and online authenticated encryption schemes (including the CAESAR competition candidates). 
 
 - The state of the art ABA protocol so far: CCS 2022 (Pillar). Pillar has on average 12 steps to terminate and assumes common coins and authenticated channels only. 
 
@@ -230,8 +229,6 @@ PETS 2024 PC / PoPETs 2024 Editorial Board
 ICDCN 2024 
 
 ACM CCS 2023 
-
-
 
 <a href="https://www.ieee-security.org/TC/EuroSP2023/">IEEE EuroS&P 2023</a> 
 
