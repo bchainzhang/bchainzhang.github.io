@@ -82,7 +82,7 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
-- 
+
 - Yu Cui, Yifei Liu, Hang Fu, Sicheng Pan, Haibin Zhang, Cong Zuo, and Licheng Wang.
 Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion. AACL 2026. 
 - Yu Cui, Hang Fu, Haibin Zhang, Licheng Wang, and Cong Zuo. Free-MAD: Consensus-Free Multi-Agent Debate. ACL 2026 Findings. 
