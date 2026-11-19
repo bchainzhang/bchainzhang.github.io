@@ -82,7 +82,8 @@ Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency.
 
 
 ## Publication
-
+- Baohan Huang, Haibin Zhang, Sisi Duan, and An Wang. JellyFish: Practical Asynchronous BFT from More
+Efficient MVBA. IEEE TDSC. 
 - Yu Cui, Yifei Liu, Hang Fu, Sicheng Pan, Haibin Zhang, Cong Zuo, and Licheng Wang.
 Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion. AACL 2026. 
 - Yu Cui, Hang Fu, Haibin Zhang, Licheng Wang, and Cong Zuo. Free-MAD: Consensus-Free Multi-Agent Debate. ACL 2026 Findings. 
@@ -213,6 +214,8 @@ I am also recently interested in designing and building distributed and cryptogr
 - RABA (reprosable ABA) in our PACE paper is a powerful and useful distributed computing primitive: so far, we have successfully used it in many different settings (parallel BFT, ADKG, BFT with quantum security, and constant-time and signature-free BFT), but we DO feel it still has great potential in various other settings! Join us to use and develop this primitive! 
 
 ## Recent conferences in which I am invovled as a PC member (please consider submitting your work!): 
+
+ACM CCS 2027
 
 ACM CCS 2026
 
